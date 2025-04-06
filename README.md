@@ -3,4 +3,4 @@
 Hi there 👋 I'm sumin An
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={asm970531})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={asm970531})](https://solved.ac/{asm970531})
